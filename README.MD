@@ -1,6 +1,6 @@
 # Выполнение всех тестовых заданий из книги Eloquent JavaScript by Marijn haverbeke
 ## Задания из главы 2: Program Structure
-* Looping a triangle -> [a relative link](trinagle.js)
+* Looping a triangle -> [triangle.js](trinagle.js)
 * FizzBuzz -> fizzBuzz.js
 * Chessboard -> chessboard.js
 ## Задания из главы 3: Functions
