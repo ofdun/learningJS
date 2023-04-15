@@ -1,6 +1,6 @@
 # Выполнение всех тестовых заданий из книги Eloquent JavaScript by Marijn haverbeke
 ## Задания из главы 2: Program Structure
-* [Looping a triangle](https://github.com/ofdun/learningJS/blob/master/trinagle.js)
+* [Looping a triangle](https://github.com/ofdun/learningJS/blob/master/triangle.js)
 * [FizzBuzz](https://github.com/ofdun/learningJS/blob/master/fizzBuzz.js)
 * [Chessboard](https://github.com/ofdun/learningJS/blob/master/chessboard.js)
 ## Задания из главы 3: Functions
