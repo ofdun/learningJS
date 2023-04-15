@@ -12,5 +12,10 @@
 * [Reversing an Array](https://github.com/ofdun/learningJS/blob/master/reverse.js)
 * [A List](https://github.com/ofdun/learningJS/blob/master/nodeLists.js)
 * [Deep Comparison](https://github.com/ofdun/learningJS/blob/master/deepComparison.js)
+## Задания из главы 5: Higher-ordered Functions
+* [Flattening]()
+* [Your Own Loop]()
+* [Everything]()
+* [Dominant Writing Direction]()
 ### Авторство
 **Все задания были выполнены мной, telegram: @eliseyofdun**
