@@ -1,16 +1,16 @@
 # Выполнение всех тестовых заданий из книги Eloquent JavaScript by Marijn haverbeke
 ## Задания из главы 2: Program Structure
-* Looping a triangle -> [triangle.js](trinagle.js)
-* FizzBuzz -> fizzBuzz.js
-* Chessboard -> chessboard.js
+* [Looping a triangle](https://github.com/ofdun/learningJS/blob/master/trinagle.js)
+* [FizzBuzz](https://github.com/ofdun/learningJS/blob/master/fizzBuzz.js)
+* [Chessboard](https://github.com/ofdun/learningJS/blob/master/chessboard.js)
 ## Задания из главы 3: Functions
-* Minimum -> min.js
-* Recursion -> isEven.js
-* Bean Counting -> beanCounting
+* [Minimum](https://github.com/ofdun/learningJS/blob/master/min.js)
+* [Recursion](https://github.com/ofdun/learningJS/blob/master/isEven.js)
+* [Bean Counting](https://github.com/ofdun/learningJS/blob/master/beanCounting.js)
 ## Задание из главы 4: Data Structures: Objects and Arrays
-* The Sum Of A Range -> summingRange.js
-* Reversing an Array -> reverse.js
-* A List -> nodeLists.js
-* Deep Comparison -> ...
+* [The Sum Of A Range](https://github.com/ofdun/learningJS/blob/master/summingRange.js)
+* [Reversing an Array](https://github.com/ofdun/learningJS/blob/master/reverse.js)
+* [A List](https://github.com/ofdun/learningJS/blob/master/nodeLists.js)
+* [Deep Comparison](https://github.com/ofdun/learningJS/blob/master/deepComparison)
 ### Авторство
 **Все задания были выполнены мной, telegram: @eliseyofdun**
