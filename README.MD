@@ -11,6 +11,6 @@
 * [The Sum Of A Range](https://github.com/ofdun/learningJS/blob/master/summingRange.js)
 * [Reversing an Array](https://github.com/ofdun/learningJS/blob/master/reverse.js)
 * [A List](https://github.com/ofdun/learningJS/blob/master/nodeLists.js)
-* [Deep Comparison](https://github.com/ofdun/learningJS/blob/master/deepComparison)
+* [Deep Comparison](https://github.com/ofdun/learningJS/blob/master/deepComparison.js)
 ### Авторство
 **Все задания были выполнены мной, telegram: @eliseyofdun**
