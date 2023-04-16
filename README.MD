@@ -13,9 +13,9 @@
 * [A List](https://github.com/ofdun/learningJS/blob/master/nodeLists.js)
 * [Deep Comparison](https://github.com/ofdun/learningJS/blob/master/deepComparison.js)
 ## Задания из главы 5: Higher-ordered Functions
-* [Flattening]()
-* [Your Own Loop]()
-* [Everything]()
-* [Dominant Writing Direction]()
+* [Flattening](https://github.com/ofdun/learningJS/blob/master/flattening.js)
+* [Your Own Loop](https://github.com/ofdun/learningJS/blob/master/looping.js)
+* [Everything](https://github.com/ofdun/learningJS/blob/master/all.js)
+* [Dominant Writing Direction](https://github.com/ofdun/learningJS/blob/master/dominantDirection.js)
 ### Авторство
 **Все задания были выполнены мной, telegram: @eliseyofdun**
